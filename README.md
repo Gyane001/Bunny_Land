@@ -5,7 +5,7 @@
 Como parte da disciplina, recebemos a tarefa de criar um site para portfólio e marketing do jogo.  
 Abaixo, segue o link para a apresentação completa do projeto:
 
-🔗 [Acessar Portfólio do Bunny Land](https://gyane001.github.io/APRESENTA-O-PORTIFOLIO-BUNNY-LAND/)
+🔗 [Acessar Portfólio do Bunny Land](https://gyane001.github.io/Bunny_Land/)
 
 ---
 
